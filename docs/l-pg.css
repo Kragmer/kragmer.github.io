@@ -1,0 +1,43 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: yellow;
+}
+
+@font-face {
+	font-family: amaranth;
+	url: ('./docs/font/Amaranth-Regular.ttf')
+}
+
+
+/* ------------------------------------*/
+
+/* HEADER */
+
+.cblock {
+	width: 100%;
+	height: 700px;
+	background-image: url("./img/logocrop2.svg")
+}
+
+.caption {
+	position: relative;
+	top: 50%;
+	left: 0;
+	width: 100%;
+	text-align: center;
+	color: #fff;
+}
+
+.caption span {
+	letter-spacing: 8px;
+}
+
+.border {
+	padding: 1em;
+	border: 1px solid #fff;
+	background-color: #515151;
+}

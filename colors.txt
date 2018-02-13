@@ -1,0 +1,4 @@
+#fc8614 - Laranja
+#4f8792 - Azul
+#684f92 - Roxo
+#515151 - Cinza
